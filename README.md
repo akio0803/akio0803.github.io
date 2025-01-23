@@ -1,6 +1,6 @@
 # Akio Hayakawa
 
-Research Scientist at Sony Research
+Research engineer at Sony Research
 
 #### Links
 
