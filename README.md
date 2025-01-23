@@ -7,7 +7,7 @@ Research engineer at Sony Research
 [Google Scholar](https://scholar.google.com/citations?user=sXAjHFIAAAAJ&hl=en) /
 [Github (private account)](https://github.com/akio0803) /
 [Github (company account)](https://github.com/AkioHayakawa-sony) /
-[Email](mailto:akio080314@gmail.com) /
+[Email](mailto:akio080314@gmail.com) 
 
 ## Educations
 
