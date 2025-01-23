@@ -33,8 +33,6 @@ Research Scientist at Sony Research
 - **Akio Hayakawa**, Takuya Narihira, "Out-of-core training for extremely large-scale neural networks with adaptive window-based scheduling", The 24th Meeting on Image Recognition and Understanding (MIRU2021), 2021
 - **Akio Hayakawa**, Yusuke Kurose, Kiyohito Tanaka, Kento Aida, Shin'ichi Satoh, Masaru Kitsuregawa, Tatsuya Harada, "Gastric cancer detection for gastroenterological endoscopy with local and multi-scale global information", The International Conference of Computer Assisted Radiology and Surgery (CARS), 2019
 
-## Pre-print
-
 ## Patents
 
 - Yoshiyuki Kobayashi, Andrew Shin, **Akio Hayakawa**, Takayoshi Takayanagi, Hirotaka Suzuki, "Bias adjustment device, information processing device, information processing method, and information processing program", US Patent App. 17/771,051, 2022
