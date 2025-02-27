@@ -22,16 +22,16 @@ Research engineer at Sony Research
 
 
 ## Publications
-- Ho Kei Cheng, Masato Ishii, **Akio Hayakawa**, Takashi Shibuya, Alexander Schwing, Yuki Mitsufuji, "Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis," The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025
-- **Akio Hayakawa**, Masato Ishii, Takashi Shibuya, Yuki Mitsufuji, "Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation", The International Conference on Learning Representation (ICLR), 2025
-- Masato Ishii, **Akio Hayakawa**, Takashi Shibuya, Yuki Mitsufuji, "A Simple but Strong Baseline for Sounding Video Generation: Effective Adaptation of Audio and Video Diffusion Models for Joint Generation", ECCV Audio-Visual Generation and Learning workshop (ECCV AVGenL), 2024
-- Hiromichi Kamata, Yuiko Sakuma, **Akio Hayakawa**, Masato Ishii, Takuya Narihira, "Instruct 3D-to-3D: Text Instruction Guided 3D-to-3D conversion", The 26th Meeting on Image Recognition and Understanding (MIRU2023), 2023
-- Naoki Matsunaga, Masato Ishii, **Akio Hayakawa**, Kenji Suzuki, Takuya Narihira, "Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models", AI for Content Creation workshop (CVPR2023 Workshop), 2023
-- **Akio Hayakawa**, Jun Nishikawa, Masato Ishii, "任意の画像生成モデルに対する汎用リファイナーとしての拡散確率モデルの応用", The 25th Meeting on Image Recognition and Understanding (MIRU2022), 2022
+- Ho Kei Cheng, Masato Ishii, **Akio Hayakawa**, Takashi Shibuya, Alexander Schwing, Yuki Mitsufuji, "Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis," The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025
+- **Akio Hayakawa**, Masato Ishii, Takashi Shibuya, Yuki Mitsufuji, "Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation", The International Conference on Learning Representation (**ICLR**), 2025
+- Masato Ishii, **Akio Hayakawa**, Takashi Shibuya, Yuki Mitsufuji, "A Simple but Strong Baseline for Sounding Video Generation: Effective Adaptation of Audio and Video Diffusion Models for Joint Generation", ECCV Audio-Visual Generation and Learning workshop (**ECCVW AVGenL**), 2024
+- Hiromichi Kamata, Yuiko Sakuma, **Akio Hayakawa**, Masato Ishii, Takuya Narihira, "Instruct 3D-to-3D: Text Instruction Guided 3D-to-3D conversion", The 26th Meeting on Image Recognition and Understanding (**MIRU**), 2023
+- Naoki Matsunaga, Masato Ishii, **Akio Hayakawa**, Kenji Suzuki, Takuya Narihira, "Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models", AI for Content Creation workshop (**CVPRW AI4CC**), 2023
+- **Akio Hayakawa**, Jun Nishikawa, Masato Ishii, "任意の画像生成モデルに対する汎用リファイナーとしての拡散確率モデルの応用", The 25th Meeting on Image Recognition and Understanding (**MIRU**), 2022
 - Takuya Narihira, Javier Alonsogarcia, Fabien Cardinaux, **Akio Hayakawa**, Masato Ishii, Kazunori Iwaki, Thomas Kemp, Yoshiyuki Kobayashi, Lukas Mauch, Akira Nakamura, Yukio Obuchi, Andrew Shin, Kenji Suzuki, Stephen Tiedmann, Stefan Uhlich, Takuya Yashima, Kazuki Yoshiyama, "Neural Network Libraries: A Deep Learning Framework Designed from Engineers' Perspectives", arXiv, 2021
-- Naofumi Akimoto, **Akio Hayakawa**, Andrew Shin, Takuya Narihira, "Reference-based video colorization with spatiotemporal correspondence", The 24th Meeting on Image Recognition and Understanding (MIRU2021), 2021
-- **Akio Hayakawa**, Takuya Narihira, "Out-of-core training for extremely large-scale neural networks with adaptive window-based scheduling", The 24th Meeting on Image Recognition and Understanding (MIRU2021), 2021
-- **Akio Hayakawa**, Yusuke Kurose, Kiyohito Tanaka, Kento Aida, Shin'ichi Satoh, Masaru Kitsuregawa, Tatsuya Harada, "Gastric cancer detection for gastroenterological endoscopy with local and multi-scale global information", The International Conference of Computer Assisted Radiology and Surgery (CARS), 2019
+- Naofumi Akimoto, **Akio Hayakawa**, Andrew Shin, Takuya Narihira, "Reference-based video colorization with spatiotemporal correspondence", The 24th Meeting on Image Recognition and Understanding (**MIRU**), 2021
+- **Akio Hayakawa**, Takuya Narihira, "Out-of-core training for extremely large-scale neural networks with adaptive window-based scheduling", The 24th Meeting on Image Recognition and Understanding (**MIRU**), 2021
+- **Akio Hayakawa**, Yusuke Kurose, Kiyohito Tanaka, Kento Aida, Shin'ichi Satoh, Masaru Kitsuregawa, Tatsuya Harada, "Gastric cancer detection for gastroenterological endoscopy with local and multi-scale global information", The International Conference of Computer Assisted Radiology and Surgery (**CARS**), 2019
 
 ## Patents
 
