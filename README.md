@@ -22,9 +22,9 @@ Research engineer at Sony Research
 
 
 ## Publications
+- Masato Ishii, **Akio Hayakawa**, Takashi Shibuya, Yuki Mitsufuji, "A Simple but Strong Baseline for Sounding Video Generation: Effective Adaptation of Audio and Video Diffusion Models for Joint Generation", The IEEE International Joint Conference on Neural Network (**IJCNN**), 2025
 - Ho Kei Cheng, Masato Ishii, **Akio Hayakawa**, Takashi Shibuya, Alexander Schwing, Yuki Mitsufuji, "Taming Multimodal Joint Training for High-Quality Video-to-Audio Synthesis," The IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025
 - **Akio Hayakawa**, Masato Ishii, Takashi Shibuya, Yuki Mitsufuji, "Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation", The International Conference on Learning Representation (**ICLR**), 2025
-- Masato Ishii, **Akio Hayakawa**, Takashi Shibuya, Yuki Mitsufuji, "A Simple but Strong Baseline for Sounding Video Generation: Effective Adaptation of Audio and Video Diffusion Models for Joint Generation", ECCV Audio-Visual Generation and Learning workshop (**ECCVW AVGenL**), 2024
 - Hiromichi Kamata, Yuiko Sakuma, **Akio Hayakawa**, Masato Ishii, Takuya Narihira, "Instruct 3D-to-3D: Text Instruction Guided 3D-to-3D conversion", The 26th Meeting on Image Recognition and Understanding (**MIRU**), 2023
 - Naoki Matsunaga, Masato Ishii, **Akio Hayakawa**, Kenji Suzuki, Takuya Narihira, "Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models", AI for Content Creation workshop (**CVPRW AI4CC**), 2023
 - **Akio Hayakawa**, Jun Nishikawa, Masato Ishii, "任意の画像生成モデルに対する汎用リファイナーとしての拡散確率モデルの応用", The 25th Meeting on Image Recognition and Understanding (**MIRU**), 2022
