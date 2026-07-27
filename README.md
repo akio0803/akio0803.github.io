@@ -69,5 +69,5 @@ Research engineer at Sony Research.
 ## Professional Activities
 
 - Executive co-chair for the 29th Meeting on Image Recognition and Understanding (MIRU2026).
-- Conference Reviewer: CVPR, ECCV, ICLR (Top 200 Reviewers at ICLR 2026), NeurIPS
-
+- Conference Reviewer: CVPR, ECCV, ICLR, NeurIPS
+- Reviewer Recognition: Top 200 Reviewer (ICLR 2026), Outstanding Reviewer (ECCV 2026) [[link](https://eccv.ecva.net/Conferences/2026/ProgramCommittee)]
