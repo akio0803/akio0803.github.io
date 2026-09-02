@@ -24,7 +24,7 @@ Research engineer at Sony Research.
 
 ## Publications
 ### International Conference
-- **Akio Hayakawa**, Yusuke Mukuta, Tatsuya Harada, "Linear Fusion MultiDiffusion for Fast Training-Free Spherical Panorama Generation," ECCV 2026 [[project](https://ahykw.github.io/lfmd/)]
+- **Akio Hayakawa**, Yusuke Mukuta, Tatsuya Harada, "Linear Fusion MultiDiffusion for Fast Training-Free Spherical Panorama Generation," ECCV 2026 [[project](https://ahykw.github.io/lfmd/)] [[video](www.youtube.com/watch?v=NMfRe9VWnOo)]
 - **Akio Hayakawa**, Masato Ishii, Takashi Shibuya, Yuki Mitsufuji, "Step-by-Step Video-to-Audio Synthesis via Negative Audio Guidance," ECCV 2026 [[arXiv](https://arxiv.org/abs/2506.20995)] [[project](https://ahykw.github.io/sbsv2a/)] [[video](https://www.youtube.com/watch?v=dKAjGm24mqc)]
 - Christian Simon, Masato Ishii, Wei-Yao Wang, Koichi Saito, **Akio Hayakawa**, Dongseok Shim, Zhi Zhong, Shuyang Cui, Takashi Shibuya, Shusuke Takahashi, Yuki Mitsufuji, “Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models,” CVPR 2026 [[arXiv](https://arxiv.org/abs/2602.20981)] [[project](https://echoesovertime.github.io/)]
 - Christian Simon, Masato Ishii, **Akio Hayakawa**, Zhi Zhong, Shusuke Takahashi, Takashi Shibuya, Yuki Mitsufuji, "TITAN-Guide: Taming Inference-Time Alignment for Guided Text-to-Video Diffusion Models," ICCV 2025 [[arXiv](https://arxiv.org/abs/2508.00289)] [[project](https://titanguide.github.io/)]
